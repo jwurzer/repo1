@@ -13,7 +13,8 @@ class Example
 	
 	public static float add2(float a, float b)
 	{
-		return a + b;
+		// special method ;-)
+		return 0.0f;
 	}
 	
 	public static float add3(float a, float b)
