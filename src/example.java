@@ -11,6 +11,11 @@ class Example
 		return a + b;
 	}
 	
+	public static float add3(float a, float b)
+	{
+		return a + b;
+	}
+	
 	public static void main(String [] args)
 	{
 		add2(3.4f, 3.2f);
