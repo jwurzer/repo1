@@ -8,7 +8,7 @@ class Example
 	
 	public float add(float a, float b)
 	{
-		return a + b;
+		return a - b; // wrong ? ;-)
 	}
 	
 	public static float add2(float a, float b)
