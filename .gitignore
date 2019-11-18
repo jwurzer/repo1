@@ -1,0 +1,10 @@
+
+# ignore files from ms office
+~$*
+
+*.class
+*.o
+*.obj
+
+# ignore build directory from root directory
+/build/
